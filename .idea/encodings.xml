@@ -13,5 +13,11 @@
     <file url="file://$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-pojo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm_multi_ds_scheme03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-web" charset="UTF-8" />
   </component>
 </project>

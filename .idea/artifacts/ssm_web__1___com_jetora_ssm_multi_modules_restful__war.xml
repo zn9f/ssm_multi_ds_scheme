@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm-web (1) (com.jetora.ssm_multi_modules_restful):war">
+    <output-path>$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-web/target</output-path>
+    <root id="archive" name="ssm.war">
+      <element id="artifact" artifact-name="ssm-web (1) (com.jetora.ssm_multi_modules_restful):war exploded" />
+    </root>
+  </artifact>
+</component>

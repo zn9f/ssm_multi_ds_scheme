@@ -3,12 +3,14 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm-web" />
     <file type="web" url="file://$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-web" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ssm_multi_ds_scheme01/pom.xml" />
         <option value="$PROJECT_DIR$/ssm_multi_ds_scheme02/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_multi_ds_scheme03/pom.xml" />
       </list>
     </option>
   </component>

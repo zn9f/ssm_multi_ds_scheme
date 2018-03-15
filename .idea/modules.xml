@@ -4,16 +4,22 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm-common/ssm-common.iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm-common/ssm-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-common/ssm-common (1) (com.jetora.ssm_multi_ds_scheme02).iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-common/ssm-common (1) (com.jetora.ssm_multi_ds_scheme02).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-common/ssm-common (1) (com.jetora.ssm_multi_ds_scheme03).iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-common/ssm-common (1) (com.jetora.ssm_multi_ds_scheme03).iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm-dao/ssm-dao.iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm-dao/ssm-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-dao/ssm-dao (1) (com.jetora.ssm_multi_ds_scheme02).iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-dao/ssm-dao (1) (com.jetora.ssm_multi_ds_scheme02).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-dao/ssm-dao (1) (com.jetora.ssm_multi_ds_scheme03).iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-dao/ssm-dao (1) (com.jetora.ssm_multi_ds_scheme03).iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm-pojo/ssm-pojo.iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm-pojo/ssm-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-pojo/ssm-pojo (1) (com.jetora.ssm_multi_ds_scheme02).iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-pojo/ssm-pojo (1) (com.jetora.ssm_multi_ds_scheme02).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-pojo/ssm-pojo (1) (com.jetora.ssm_multi_modules_restful).iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-pojo/ssm-pojo (1) (com.jetora.ssm_multi_modules_restful).iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm-service/ssm-service.iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm-service/ssm-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-service/ssm-service (1) (com.jetora.ssm_multi_ds_scheme02).iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-service/ssm-service (1) (com.jetora.ssm_multi_ds_scheme02).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-service/ssm-service (1) (com.jetora.ssm_multi_ds_scheme03).iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-service/ssm-service (1) (com.jetora.ssm_multi_ds_scheme03).iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm-web/ssm-web.iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm-web/ssm-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-web/ssm-web (1) (com.jetora.ssm_multi_ds_scheme02).iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm-web/ssm-web (1) (com.jetora.ssm_multi_ds_scheme02).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-web/ssm-web (1) (com.jetora.ssm_multi_ds_scheme03).iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm-web/ssm-web (1) (com.jetora.ssm_multi_ds_scheme03).iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm_multi_ds_scheme01.iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme01/ssm_multi_ds_scheme01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm_multi_ds_scheme02.iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme02/ssm_multi_ds_scheme02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm_multi_ds_scheme03.iml" filepath="$PROJECT_DIR$/ssm_multi_ds_scheme03/ssm_multi_ds_scheme03.iml" />
     </modules>
   </component>
 </project>
