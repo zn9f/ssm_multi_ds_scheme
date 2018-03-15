@@ -1,6 +1,7 @@
 ```
 方案1
-通过Spring AOP在业务层实现读写分离，在DAO层调用前定义切面，利用Spring的AbstractRoutingDataSource解决多数据源的问题，实现动态选择数据源
+通过Spring AOP在业务层实现读写分离，在DAO层调用前定义切面，利用Spring的AbstractRoutingDataSource解决多数据源的问题，
+实现动态选择数据源
 
 优点：通过注解的方法在DAO每个方法上配置数据源，原有代码改动量少，易扩展，支持多读
 缺点：需要在DAO每个方法上配置注解，人工管理，容易出错
@@ -16,6 +17,6 @@
 
 
 方案3
-如果你的后台结构是spring+mybatis，可以通过spring的AbstractRoutingDataSource和mybatis Plugin拦截器实现非常友好的读写分离，
-原有代码不需要任何改变。
+如果你的后台结构是spring+mybatis，可以通过spring的AbstractRoutingDataSource和mybatis Plugin拦截器实现非常友好的
+读写分离，原有代码不需要任何改变。
 ```
